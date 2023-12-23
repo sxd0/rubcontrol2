@@ -33,3 +33,51 @@ header{
     padding-top: 8px;
     padding-bottom: 8px ;
 }
+.plice{
+    background-color: white;
+    border-color: gray;
+    border:  1px solid;
+    width: 32px;
+    height: 32px;
+    border-radius: 8px;
+    font-size: 24px;
+}
+.calc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.green24{
+    font-size: 24px;
+    color: #688800;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.menud{
+    display: flex;
+}
+.butle{
+    text-align: center;
+}
+.backetd{
+    margin-right: 10px ;
+}
+.navi{
+    display: none;
+}
+.nava{
+    display: flex;
+    color: #688800;
+    margin-right: 88px;
+}
+
+.nava1{
+    display: flex;
+    color: #688800;
+}
+.desc{
+    font-size: 16px;
+}
+.sec{
+    margin-bottom: 5%;
+}

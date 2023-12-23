@@ -1,0 +1,35 @@
+*{
+    font-family: 'Roboto';
+}
+.salad{
+    font-family: 'Amatic SC', sans-serif;
+
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 112px;
+}
+.salad{
+    font-size: 36px;
+    text-align: center;
+}
+.botle{
+    margin-left: 10px;
+    border: white;
+    background-color: white;
+}
+.knop{
+    text-align: center;
+    display: block;
+    border: 1px solid;
+    color: #688800;
+    border-color: #688800;
+    border-radius: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 24px;
+    padding-top: 8px;
+    padding-bottom: 8px ;
+}

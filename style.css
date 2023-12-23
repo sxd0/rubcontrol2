@@ -81,3 +81,60 @@ header{
 .sec{
     margin-bottom: 5%;
 }
+@media screen and (max-width: 1024px){
+    .desc{
+        margin-left: 20%;
+        margin-right: 20%;
+    }
+    .menud{
+        margin-left: 70%;
+    }
+}
+@media screen and (max-width:1300px) {
+        .desc{
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+}
+@media screen and (min-width:1300px) {
+    .sec{
+        display: flex;
+        align-items: center;
+    }  .salad{
+        text-align: left;
+    }
+    .text{
+        text-align: left;
+    }
+    .calc{
+        justify-content: left;
+    }
+    .knopka{
+        display: inline-flex;
+
+        margin-left: 0px;
+    }
+    .knop{
+        width: 200px;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        padding-left: 48px;
+        padding-right: 48px;
+        padding-top: 18px;
+        padding-bottom: 18px ;
+        margin-left: 0px;
+    }
+}
+@media screen and (min-width: 1024px) {
+
+    .navi{
+        display: flex;
+        align-items: center;
+    }
+    .menu{
+        display: none;
+        
+    }
+    
+}
